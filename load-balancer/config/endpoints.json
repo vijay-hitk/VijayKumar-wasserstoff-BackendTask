@@ -1,0 +1,7 @@
+{
+    "rest": [
+      "http://localhost:3001/fast",
+      "http://localhost:3002/slow"
+    ]
+  }
+  
